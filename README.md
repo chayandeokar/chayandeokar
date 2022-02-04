@@ -10,7 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Ansible / Docker / Openshift / CSS
 
-- 🔭 I’m currently working on DevOps 
+- 🔭 I’m currently working on Kubernetes , Docker  
 - 🌱 I’m currently learning React Js 
 - 💬 Ask me about DevOps , MLOps , Flutter 
 - 📫 How to reach me: https://www.linkedin.com/in/chayandeokar/ 
