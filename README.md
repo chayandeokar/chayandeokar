@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My Name Is Chayan
 #### Connect With Me on Linkedin
-![Connect With Me on Linkedin] (https://www.linkedin.com/in/chayandeokar/)
+[Connect With Me on Linkedin] (https://www.linkedin.com/in/chayandeokar/)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
