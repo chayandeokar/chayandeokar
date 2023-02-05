@@ -10,6 +10,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Ansible / Docker / Openshift / CSS
 
+I am 2X Redhat Certified | Salesforce Developer | BigData
+
 - 🔭 I’m currently working on Kubernetes , Docker  
 - 🌱 I’m currently learning React Js 
 - 💬 Ask me about DevOps , MLOps , Flutter 
