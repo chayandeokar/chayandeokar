@@ -26,8 +26,3 @@ I am 2X Redhat Certified | Salesforce Developer | BigData
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/chayandeokar&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/chayandeokar)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/chayandeokar)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/chayandeokar)  
