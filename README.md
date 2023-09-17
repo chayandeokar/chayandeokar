@@ -48,7 +48,9 @@ Skills: Ansible / Docker / Openshift / CSS
 <br/><br/>
 ## 🔗 Connect with me:
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chayandeokar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chayandeokar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/chayandeokar//)  
+<a href = "https://www.linkedin.com/in/chayandeokar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
+<a href = "chayandeokar02@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>&nbsp;
+</p>
 
 
 
