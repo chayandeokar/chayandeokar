@@ -51,10 +51,10 @@
  
 <br><br> 
 ### I am 2X Redhat Certified | Salesforce Developer | BigData 
-**Working as Intern In Linux world pvt ltd**
+**Working as Intern In Constems-ai**
 
-- 🔭 I’m currently working on Kubernetes , Docker  
-- 🌱 I’m currently learning React Js , BlockChain
+- 🔭 I’m currently working on Kubernetes , Docker , CI/CD
+- 🌱 I’m currently learning Prometheus , Kafka
 - I’m Looking To Collaborate With DevOps Integrators
 - 💬 Ask me about DevOps , MLOps , Flutter 
 - 📫 How to reach me: https://www.linkedin.com/in/chayandeokar/ 
