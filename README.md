@@ -1,4 +1,4 @@
-## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Chayan 👨‍🎓
+## Hi {Developer's}! I am Chayan 👨‍🎓
 
 <!--Header-->
 
@@ -8,6 +8,9 @@
 
 #### Connect With Me on Linkedin
 [Connect With Me on Linkedin] (https://www.linkedin.com/in/chayandeokar/)
+
+#### Connect With Me on Youtube
+[Connect With Me on YouTube] [(https://www.linkedin.com/in/chayandeokar/](https://www.youtube.com/channel/UCFd3EjUKGV0OPAsEkc7pAMg))
 
 ## Technical Skills 🛠 
 
